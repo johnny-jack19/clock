@@ -2,6 +2,7 @@ body {
     background-color: rgb(1, 22, 39);
     width: 100vw;
     height: 100vh;
+    overflow: hidden;
 }
 
 .number {
@@ -31,8 +32,8 @@ body {
     z-index: 1;
     border-radius: 50%;
     border: 5px solid rgb(253, 255, 252);
-    background-color: rgb(46, 196, 182);
     background-color: rgb(23, 139, 127);
+    background-color: red;
     transform-origin: center;
     width: calc(30vh + 30vw);
     height: calc(30vh + 30vw);
