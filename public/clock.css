@@ -2,7 +2,6 @@ body {
     background-color: rgb(1, 22, 39);
     width: 100vw;
     height: 100vh;
-    overflow: hidden;
 }
 
 .number {
