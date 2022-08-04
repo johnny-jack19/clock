@@ -10,8 +10,8 @@ body {
     width: 10px;
     height: calc(12.5vw + 12.5vh);
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 50vh;
+    left: 50vw;
     padding: 0;
     z-index: 3;
 }
@@ -33,7 +33,6 @@ body {
     border-radius: 50%;
     border: 5px solid rgb(253, 255, 252);
     background-color: rgb(23, 139, 127);
-    background-color: red;
     transform-origin: center;
     width: calc(30vh + 30vw);
     height: calc(30vh + 30vw);
@@ -61,8 +60,8 @@ body {
     height: calc(25vw + 5vh);
     max-height: calc(25vh + 5vw);
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 50vh;
+    left: 50vw;
     transform-origin: 50% 0%;
     transform: rotate(-180deg);
     z-index: 3;
@@ -74,8 +73,8 @@ body {
     height: calc(25vw + 5vh);
     max-height: calc(25vh + 5vw);
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 50vh;
+    left: 50vw;
     transform-origin: 50% 0%;
     padding: 0;
     z-index: 2;
